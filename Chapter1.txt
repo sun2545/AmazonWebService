@@ -1,3 +1,9 @@
 1.1 What is cloud computing? 
+
 The level of abstraction offered by the cloud varies, from offering virtual machines (VMs) to providing software as a service (SaasS)
 based on complex distributed systems.
+
+AWS is a public cloud. Cloud computing services also have several classifications:
+ Infrastructure as a service (IaaS)—Offers fundamental resources like computing, storage, and networking capabilities, using virtual machines such as Amazon EC2, Google Compute Engine, and Microsoft Azure.
+ Platform as a service (PaaS)—Provides platforms to deploy custom applications to the cloud, such as AWS Elastic Beanstalk, Google App Engine, and Heroku.
+ Software as a service (SaaS)—Combines infrastructure and software running in the cloud, including office applications like Amazon WorkSpaces, Google Apps for Work, and Microsoft Office 365.

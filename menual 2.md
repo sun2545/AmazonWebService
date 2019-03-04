@@ -1,4 +1,7 @@
- 
+    https://youtu.be/kIbw3EY1of4
+    https://youtu.be/Inr0_Br8etA
+    
+    
      - 새 어플리케이션 생성 (Elastic Beanstalk)
      - 웹서버 환경
      - 미리 구성된 플랫폼 : Node.js

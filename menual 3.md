@@ -1,4 +1,7 @@
-
+     https://youtu.be/WH1VZvkje0Y
+     
+     
+     
    ~ EB CLI (Elastic Beanstalk Command Line Interface) 설치해야 AWS를 제대로 편리하게 사용할 수 있음
      - 우선 Python을 설치해야함 (다운로드 후 설치시 'Add Pythone 3.6 to PATH' 체크박스를 체크하고 설치해야함
 

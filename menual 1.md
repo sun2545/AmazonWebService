@@ -1,3 +1,7 @@
+     MySQL Workbench 로 AWS RDS MySQL 접속과 테이블 작성
+https://www.youtube.com/watch?v=VaaEpTaJpHY 
+https://youtu.be/eANRvLs-siI
+
 
      - docs.aws.amazon.com > 자습서 및 프로젝트
        ~ 프로젝트 안내서 시작하기
